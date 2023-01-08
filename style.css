@@ -67,9 +67,11 @@ h1{
 }
 .skill-type-1{
     text-align: center;
+
 }
 .gradient{
-    background-image:url('image/watch.png');
+    background-image:linear-gradient( rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73))
+    ,url( 'image/watch.png');
     height: 300px;
     margin: 100px auto;
     width: 70%;
